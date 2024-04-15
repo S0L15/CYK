@@ -1,0 +1,40 @@
+4
+5 5
+S AB BA SS AC BD
+C SB
+D SA
+A a
+B b
+aabbab
+aabb
+ab
+aa
+b
+4 3
+S AB AC SS
+C SB
+A a
+B b
+abab
+aaabbbaabbab
+aabab
+2 6
+S AS b
+A a
+ab
+aaaaaaaa
+aaaaaaaaaaab
+b
+bb
+abb
+7 3
+S EF BC c
+B BC c
+A a
+C c
+D b
+E AS
+F DD
+acbb
+aacccccb
+aaaacccccccbbbbbbbb
