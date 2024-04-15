@@ -1,13 +1,19 @@
 Implementación del algoritmo Cocke-Younger-Kasami
 
 El formato de la entrada es:
+
     -Una línea con un número n que indica cuantos casos vienen (3 en el archivo 'test-cky.in')
+
     -Dos enteros, en la misma línea separados por un espacio en blanco, k y m, donde k es el número de no terminales y m es el número de cadenas que se van a analizar
+
     -Ahora, k líneas con las producciones, con el formato:
+
         <no terminal> <alternativas de derivación del símbolo no terminal separadas por espacios en blanco>
+
     -Luego, m líneas con las cadenas que se van a analizar
 
 La salida es:
+
     -Se imprimen m líneas, cada una contiene una de dos opciones: 'yes', si la cadena puede ser generada por la gramática, o 'no', si no es así.
 
 Se asume que 'S' es el símbolo inicial y que la gramática está en forma normal de Chomsky.
