@@ -21,14 +21,21 @@ Seleccionar 3 palabras, 2 de ellas que sean sentencias y la tercera no, y agrega
 Conversión del conjunto de palabras a una GLC:
 
 S -> aSbb | B
+
 B -> Bc | c
 
 Conversión de la GLC a la forma normal de Chomsky (FNC):
 
 S -> EF|BC|c
+
 B -> BC|c
+
 A -> a
+
 C -> c
+
 D -> b
+
 E -> AS
+
 F -> DD
