@@ -19,10 +19,12 @@ Encontrar una gramática en la forma normal de Chomsky para el conjunto de palab
 Seleccionar 3 palabras, 2 de ellas que sean sentencias y la tercera no, y agregarlos al archivo adjunto para ejecutarlos con el algoritmo inicial para validar funcionalidad.
 
 Conversión del conjunto de palabras a una GLC:
+
 S -> aSbb | B
 B -> Bc | c
 
 Conversión de la GLC a la forma normal de Chomsky (FNC):
+
 S -> EF|BC|c
 B -> BC|c
 A -> a
